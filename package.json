@@ -1,0 +1,23 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Exciting tours for adventurous people, CSS and HTML practice",
+  "main": "index.js",
+  "devDependencies": {
+    "node-sass": "^4.13.1",
+    "live-server": "^1.2.1"
+  },
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarekucinski/natours.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarekucinski/natours/issues"
+  },
+  "homepage": "https://github.com/jarekucinski/natours#readme"
+}
