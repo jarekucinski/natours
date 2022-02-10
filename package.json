@@ -4,7 +4,7 @@
   "description": "Exciting tours for adventurous people, CSS and HTML practice",
   "main": "index.js",
   "devDependencies": {
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "live-server": "^1.2.1"
   },
   "scripts": {
